@@ -19,13 +19,18 @@ E-commerce sales data containing:
 ## 🚀 Project Structure
 ecommerce_data_project/
 ├── data/ # Data files (raw and processed)
+| |
 │ ├── raw/ # Original data (not in GitHub)
 │ └── processed/ # Cleaned data
 ├── notebooks/ # Jupyter notebooks
+| |
 │ └── 01_data_cleaning.ipynb
+|
 ├── outputs/ # Generated outputs
+| |
 │ ├── plots/ # Visualizations
 │ └── reports/ # Analysis reports
+|
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Files to ignore
 └── README.md # This file
