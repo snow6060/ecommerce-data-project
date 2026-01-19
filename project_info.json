@@ -1,0 +1,17 @@
+{
+  "project_name": "E-commerce Data Cleaning Portfolio Project",
+  "author": "snow6060",
+  "description": "Data cleaning pipeline demonstrating Python/Pandas skills for data engineering roles",
+  "technologies": [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "Jupyter"
+  ],
+  "dataset": "E-commerce sales data (2022-2024)",
+  "github": "https://github.com/snow6060/ecommerce-data-project",
+  "created": "2024",
+  "last_updated": "2024"
+}
