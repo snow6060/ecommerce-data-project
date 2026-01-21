@@ -17,23 +17,22 @@ E-commerce sales data containing:
 - 50,000+ transactions from 2022-2024
 
 ## 🚀 Project Structure
+# Project Structure
+
+```plaintext
 ecommerce_data_project/
-├── data/ # Data files (raw and processed)
-| |
-│ ├── raw/ # Original data (not in GitHub)
-│ └── processed/ # Cleaned data
-├── notebooks/ # Jupyter notebooks
-| |
-│ └── 01_data_cleaning.ipynb
-|
-├── outputs/ # Generated outputs
-| |
-│ ├── plots/ # Visualizations
-│ └── reports/ # Analysis reports
-|
-├── requirements.txt # Python dependencies
-├── .gitignore # Files to ignore
-└── README.md # This file
+├── data/
+│   ├── raw/                 # Original data (not in GitHub)
+│   └── processed/           # Cleaned data
+├── notebooks/
+│   └── 01_data_cleaning.ipynb
+├── outputs/
+│   └── plots/               # Visualizations
+├── reports/                 # Analysis reports
+├── requirements.txt         # Python dependencies
+├── .gitignore               # Files to ignore
+└── README.md                # This file
+```
 
 
 ## 📈 Analysis Performed
